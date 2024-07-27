@@ -2,3 +2,7 @@ zithara techonlogies hyderabad.
 
 
 frontend developer,
+
+
+reactjs,
+nextjs.
