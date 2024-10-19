@@ -1,1 +1,1 @@
-const str = "this is test rename file.";
+const str = "this is master branch test 1 line1";
