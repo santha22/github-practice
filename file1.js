@@ -1,1 +1,1 @@
-this is test rename file.
+const str = "this is test rename file.";
